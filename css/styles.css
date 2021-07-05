@@ -720,7 +720,7 @@ img {
 
   background-color: var(--hero-text-color);
 }
-.close-modal {
+.close-modal-button {
   position: absolute;
   top: 8px;
   right: 8px;
@@ -732,4 +732,5 @@ img {
   height: 30px;
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: var(--hero-text-color);
 }
